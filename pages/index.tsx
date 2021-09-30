@@ -3,6 +3,7 @@ import Navbar from '../components/navbar/Navbar'
 
 export default function Home() {
   return (
+    <>
     <div className="">
       <Head>
         <title>E-learning Life</title>
@@ -10,5 +11,6 @@ export default function Home() {
       </Head>
        <Navbar/>
     </div>
+    </>
   )
 }
