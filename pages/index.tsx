@@ -5,10 +5,9 @@ export default function Home() {
     <div className="">
       <Head>
         <title>E-learning Life</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/code.png" />
       </Head>
-   
-   <h1>hello from meee</h1>   
+     
     </div>
   )
 }
