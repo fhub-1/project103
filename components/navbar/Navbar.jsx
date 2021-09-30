@@ -1,5 +1,5 @@
 import React from 'react'
-import link
+import Link from "next/link"
 import Logo from "../../public/code.png"
 
 export default function Navbar() {
