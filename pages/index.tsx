@@ -7,8 +7,8 @@ export default function Home() {
         <title>E-learning Life</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
-      
+   
+   <h1>hello from meee</h1>   
     </div>
   )
 }
