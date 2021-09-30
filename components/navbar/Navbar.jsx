@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from "next/link"
 import Logo from "../../public/code.png"
+import Image from "next/image"
 
 export default function Navbar() {
     return (
@@ -11,7 +12,7 @@ export default function Navbar() {
       <div className="logo">
         <div>
           <Link to="/">
-            <img src={Logo} alt="Microsoft" />
+            <Image src={Logo} alt="Microsoft" />
           </Link>
         </div>
 
